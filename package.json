@@ -1,0 +1,24 @@
+{
+  "name": "gewooncoder",
+  "version": "1.0.0",
+  "description": "een test bot voor GewoonCoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "GewoonCoder",
+    "Discord",
+    "YouTube",
+    "bot"
+  ],
+  "author": "GewoonCoder",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
